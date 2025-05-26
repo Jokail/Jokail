@@ -41,3 +41,6 @@ Java is my primary and core programming language, but I’m much more than a spe
 [![Email](https://img.shields.io/badge/Email-jokailxx%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jokailxx@gmail.com)
 
 
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jokal&show_icons=true&theme=dark)
+
