@@ -42,5 +42,5 @@ Java is my primary and core programming language, but I’m much more than a spe
 
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jokal&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jokail&show_icons=true&theme=dark)
 
