@@ -1,6 +1,5 @@
 ## Hi! My name is Datsenko Vitalii
-A passionate Software Engineer from Ukraine 🧑‍💻
-Java is my primary and core programming language, but I’m much more than a specialized developer. I focus on solving problems without getting fixated on a specific programming language, which is why I’m always open to learning something new. Currently, I’m exploring and building projects using Python.
+Java is my primary programming language, but I’m much more than a specialized developer. I focus on solving problems without getting fixated on a specific programming language, which is why I’m always open to learning something new.
 
 🔭 I’m currently working on a secret project 🤫
 
@@ -15,10 +14,10 @@ Java is my primary and core programming language, but I’m much more than a spe
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 
 #### Core:
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
 
 #### Libraries/Frameworks:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring&logoColor=white)
